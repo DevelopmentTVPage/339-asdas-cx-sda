@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "new test"
+baseURL = "https:\/\/asdas.cx.sda"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "753"
+subfolder = ""
