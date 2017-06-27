@@ -1,0 +1,72 @@
+{
+    "title": "Vans - PROPELLER",
+    "description": "Vans - PROPELLER",
+    "referenceId": null,
+    "date_created": "1440442845",
+    "date_modified": "1455833809",
+    "tags": "",
+    "sourceId": "1",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "video_brand": null,
+    "video_celeb": null,
+    "video_activity": null,
+    "VV_VI": "557",
+    "CVV_VI": "16",
+    "engagement_score": "5",
+    "conversion_score": "1",
+    "id": "6379183",
+    "loginId": "753",
+    "entityType": "1",
+    "titleTextEncoded": "Vans-PROPELLER",
+    "category": null,
+    "duration": "51",
+    "settings": null,
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/753\/canvas\/655\/368\/469302707-08650374.png",
+        "mediaDuration": "51",
+        "prettyDuration": "00:00:51",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6379183\/bcd221ab_46a8_45b7_8979_40a86a1132ea.mp4"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6379183\/720p_bcd221ab_46a8_45b7_8979_40a86a1132ea.mp4",
+                "quality": "720p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6379183\/480p_bcd221ab_46a8_45b7_8979_40a86a1132ea.mp4",
+                "quality": "480p"
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/753\/6379183\/360p_bcd221ab_46a8_45b7_8979_40a86a1132ea.mp4",
+                "quality": "360p"
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_concept": null,
+    "tvp_entity_company": null,
+    "tvp_entity_facility": null,
+    "tvp_entity_geographicfeature": null,
+    "tvp_entity_healthcondition": null,
+    "tvp_entity_location": null,
+    "tvp_entity_movie": null,
+    "tvp_entity_musicgroup": null,
+    "tvp_entity_organization": null,
+    "tvp_entity_person": null,
+    "tvp_entity_sport": null,
+    "tvp_entity_sportingevent": null,
+    "tvp_entity_televisionshow": null,
+    "tvp_entity_twitterhandle": null,
+    "tvp_entity_vehicle": null,
+    "tvp_category_1": null,
+    "tvp_category_2": null,
+    "tvp_category_3": null,
+    "tvp_category_4": null,
+    "tvp_category_5": null,
+    "tvp_profiles": null
+}
